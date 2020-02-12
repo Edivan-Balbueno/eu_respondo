@@ -1,0 +1,15 @@
+current directory: /home/administrator/time_to_answer/path/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/administrator/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20191108-9288-bvqjw7.rb extconf.rb
+creating Makefile
+
+current directory: /home/administrator/time_to_answer/path/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/administrator/time_to_answer/path/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/administrator/time_to_answer/path/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20191108-9288-l0md8h

@@ -1,0 +1,15 @@
+current directory: /home/administrator/time_to_answer/path/gems/bindex-0.8.1/ext/skiptrace
+/home/administrator/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20191108-9288-1jxb7ml.rb extconf.rb
+creating Makefile
+
+current directory: /home/administrator/time_to_answer/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/administrator/time_to_answer/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/administrator/time_to_answer/path/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20191108-9288-13nv4o7/skiptrace/internal

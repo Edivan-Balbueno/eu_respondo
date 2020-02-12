@@ -1,0 +1,7 @@
+'pt-BR':
+  formulario:
+    text_area: Digite a '%{item}'
+    text_field: Digite um '%{item}'
+    password_field: Crie uma senha
+    password_confirm: Confirme a senha
+    

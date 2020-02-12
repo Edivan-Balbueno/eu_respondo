@@ -1,0 +1,19 @@
+current directory: /home/administrator/time_to_answer/path/gems/byebug-11.0.1/ext/byebug
+/home/administrator/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20191108-9288-7wrlr7.rb extconf.rb
+creating Makefile
+
+current directory: /home/administrator/time_to_answer/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/administrator/time_to_answer/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/administrator/time_to_answer/path/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20191108-9288-1ym9wex/byebug
